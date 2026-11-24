@@ -1,3 +1,11 @@
+# GH4Woman — Módulo 1: Git e GitHub
+
+## Objetivo do laboratório
+
+Praticar versionamento e colaboração com Git e GitHub: fork, clone, criação de branches, status, staging, commits e push. O roteiro original e suas imagens foram preservados. A conclusão individual da atividade não foi verificada.
+
+## Material original
+
 **Alteração no Laboratório:**
 Devido ao limite diário de adição de colaboradores aos repositórios GitHub, realizamos uma pequena alteração no laboratório para que todas possam realizar a atividade mesmo sem a permissão de colaborador, onde ao invés de clonar diretamente foi adicionado o passo de fork do repositório, onde o clone agora passa a ser do repositório criado pelo fork.
 Quem tem a permissão de colaborador e já finalizou a atividade utilizando o clone diretamente não é necessário realizar a atividade novamente!
